@@ -1,0 +1,8 @@
+,mcnemar_p_vs[Paper: Naive Bayes (BoW)]
+Paper: Logistic Reg. (BoW),0.22656
+Paper: Linear SVM (BoW),0.00028
+Improved: Logistic Reg.,0.21875
+Improved: Linear SVM,0.125
+Improved: Naive Bayes,0.375
+Improved: NB-SVM,0.125
+Improved: Soft-voting Ensemble,0.125
